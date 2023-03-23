@@ -19,7 +19,7 @@ public class Projekt2 {
         Scanner scan =new Scanner (System.in);
         int val=scan.nextInt();
         switch (val) {
-            case 1:
+            case 1: System.out.println("hahaha");
                 
                 
                     
